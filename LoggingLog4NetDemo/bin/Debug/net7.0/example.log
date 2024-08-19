@@ -1,0 +1,6 @@
+2024-05-29 10:38:19,884  INFO Microsoft.Hosting.Lifetime.? [(null)] [?] - MESSAGE: Now listening on: http://localhost:5096
+ 2024-05-29 10:38:19,943  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [(null)] [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2024-05-29 10:38:19,947  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [(null)] [0] - MESSAGE: Hosting environment: Development
+ 2024-05-29 10:38:19,947  INFO Microsoft.Hosting.Lifetime.RunInternal [(null)] [0] - MESSAGE: Content root path: /Users/prakashvenigandla/repos/asp-core-api-7/demos/LoggingLog4NetDemo
+ 2024-05-29 10:38:21,444 ERROR LoggingLog4NetDemo.Controllers.WeatherForecastController.Get [(null)] [28] - MESSAGE: Attempted to divide by zero.
+ 

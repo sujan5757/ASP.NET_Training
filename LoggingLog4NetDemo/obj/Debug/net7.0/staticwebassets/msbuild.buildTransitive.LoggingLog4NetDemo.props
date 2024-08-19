@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/LoggingLog4NetDemo.props" />
+</Project>

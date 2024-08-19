@@ -1,0 +1,21 @@
+
+@model Product
+<form asp-controller="Products" asp-action="Create" method="post">
+    <fieldset>
+        <div>
+            <label>Id</label>
+            <input asp-for="Id">
+        </div>
+        <div>
+            <label>Name</label>
+            <input asp-for="Name">
+        </div>
+        <div>
+            <label>Price</label>
+            <input asp-for="Price">
+        </div>
+        <div>
+         <button type="submit">Create</button>
+        </div>
+    </fieldset>
+</form>

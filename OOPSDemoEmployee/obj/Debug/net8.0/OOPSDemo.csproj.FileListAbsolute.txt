@@ -1,0 +1,28 @@
+/Users/prakashvenigandla/OOPSDemo/obj/Debug/net8.0/OOPSDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prakashvenigandla/OOPSDemo/obj/Debug/net8.0/OOPSDemo.AssemblyInfoInputs.cache
+/Users/prakashvenigandla/OOPSDemo/obj/Debug/net8.0/OOPSDemo.AssemblyInfo.cs
+/Users/prakashvenigandla/OOPSDemo/obj/Debug/net8.0/OOPSDemo.csproj.CoreCompileInputs.cache
+/Users/prakashvenigandla/OOPSDemo/bin/Debug/net8.0/OOPSDemo
+/Users/prakashvenigandla/OOPSDemo/bin/Debug/net8.0/OOPSDemo.deps.json
+/Users/prakashvenigandla/OOPSDemo/bin/Debug/net8.0/OOPSDemo.runtimeconfig.json
+/Users/prakashvenigandla/OOPSDemo/bin/Debug/net8.0/OOPSDemo.dll
+/Users/prakashvenigandla/OOPSDemo/bin/Debug/net8.0/OOPSDemo.pdb
+/Users/prakashvenigandla/OOPSDemo/obj/Debug/net8.0/OOPSDemo.dll
+/Users/prakashvenigandla/OOPSDemo/obj/Debug/net8.0/refint/OOPSDemo.dll
+/Users/prakashvenigandla/OOPSDemo/obj/Debug/net8.0/OOPSDemo.pdb
+/Users/prakashvenigandla/OOPSDemo/obj/Debug/net8.0/OOPSDemo.genruntimeconfig.cache
+/Users/prakashvenigandla/OOPSDemo/obj/Debug/net8.0/ref/OOPSDemo.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\OOPSDemo\bin\Debug\net8.0\OOPSDemo.exe
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\OOPSDemo\bin\Debug\net8.0\OOPSDemo.deps.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\OOPSDemo\bin\Debug\net8.0\OOPSDemo.runtimeconfig.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\OOPSDemo\bin\Debug\net8.0\OOPSDemo.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\OOPSDemo\bin\Debug\net8.0\OOPSDemo.pdb
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\OOPSDemo\obj\Debug\net8.0\OOPSDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\OOPSDemo\obj\Debug\net8.0\OOPSDemo.AssemblyInfoInputs.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\OOPSDemo\obj\Debug\net8.0\OOPSDemo.AssemblyInfo.cs
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\OOPSDemo\obj\Debug\net8.0\OOPSDemo.csproj.CoreCompileInputs.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\OOPSDemo\obj\Debug\net8.0\OOPSDemo.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\OOPSDemo\obj\Debug\net8.0\refint\OOPSDemo.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\OOPSDemo\obj\Debug\net8.0\OOPSDemo.pdb
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\OOPSDemo\obj\Debug\net8.0\OOPSDemo.genruntimeconfig.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\OOPSDemo\obj\Debug\net8.0\ref\OOPSDemo.dll

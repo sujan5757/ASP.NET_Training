@@ -1,0 +1,13 @@
+2024-08-08 10:19:09,832  INFO Microsoft.Hosting.Lifetime.? [(null)] [?] - MESSAGE: Now listening on: http://localhost:5096
+ 2024-08-08 10:19:09,869  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [(null)] [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2024-08-08 10:19:09,872  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [(null)] [0] - MESSAGE: Hosting environment: Development
+ 2024-08-08 10:19:09,873  INFO Microsoft.Hosting.Lifetime.Invoke [(null)] [0] - MESSAGE: Content root path: /Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo
+ 2024-08-08 10:19:49,968 ERROR LoggingLog4NetDemo.Controllers.WeatherForecastController.Get [(null)] [28] - MESSAGE: Attempted to divide by zero.
+ 2024-08-08 10:20:14,719 ERROR LoggingLog4NetDemo.Controllers.WeatherForecastController.Get [(null)] [28] - MESSAGE: Attempted to divide by zero.
+ 2024-08-08 10:46:55,879  INFO Microsoft.Hosting.Lifetime.? [(null)] [?] - MESSAGE: Now listening on: http://localhost:5096
+ 2024-08-08 10:46:55,901  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [(null)] [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2024-08-08 10:46:55,902  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [(null)] [0] - MESSAGE: Hosting environment: Development
+ 2024-08-08 10:46:55,903  INFO Microsoft.Hosting.Lifetime.Invoke [(null)] [0] - MESSAGE: Content root path: C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo
+ 2024-08-08 10:55:25,124 ERROR LoggingLog4NetDemo.Controllers.WeatherForecastController.Get [(null)] [28] - MESSAGE: Attempted to divide by zero.
+ 2024-08-08 10:58:19,312 ERROR LoggingLog4NetDemo.Controllers.WeatherForecastController.Get [(null)] [28] - MESSAGE: Attempted to divide by zero.
+ 

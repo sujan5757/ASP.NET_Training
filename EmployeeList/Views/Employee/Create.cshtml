@@ -1,0 +1,37 @@
+
+@model Employee
+<form asp-controller="employee" asp-action="Create" method="post">
+    <fieldset>
+        <div>
+            <label>Id</label>
+            <input asp-for="EmpId">
+        </div>
+        <div>
+            <label>Name</label>
+            <input asp-for="EmpName">
+        </div>
+        <div>
+            <label>Email</label>
+            <input asp-for="EmpEmail">
+        </div>
+           <div>
+            <label>PhoneNumber</label>
+            <input asp-for="EmpPhNumber">
+        </div>
+           <div>
+            <label>City</label>
+            <input asp-for="EMpCity">
+        </div>
+        <div>
+            <label>Address</label>
+            <input asp-for="EmpAddress">
+        </div>
+        <div>
+            <label>DOB</label>
+            <input asp-for="EmpDob">
+        </div>
+        <div>
+         <button type="submit">Create</button>
+        </div>
+    </fieldset>
+</form>

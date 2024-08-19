@@ -1,0 +1,8 @@
+https://learn.microsoft.com/en-us/ef/core/querying/sql-queries
+https://github.com/dotnet/EntityFramework.Docs/blob/main/samples/core/Querying/SqlQueries/Program.cs
+
+--ExecuteSqlRaw
+https://learn.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.relationaldatabasefacadeextensions.executesqlraw?view=efcore-8.0
+
+--FromSqlRaw
+https://learn.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.relationalqueryableextensions.fromsqlraw?view=efcore-8.0

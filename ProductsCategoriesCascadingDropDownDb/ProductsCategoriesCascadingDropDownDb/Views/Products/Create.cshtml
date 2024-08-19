@@ -1,0 +1,23 @@
+﻿@using ProductCrudDb.Models;
+@model ProductCategoryViewModel;
+
+<form action="~/products/create" method="post">
+    <fieldset>
+        <p>
+            Name:<input asp-for="@Model.Product.Name" />
+        </p>
+        <p>
+            Price:<input asp-for="@Model.Product.Price" />
+        </p>
+        <p>
+            <label>Category</label>
+            <select asp-for="Product.CategoryId" asp-items="@(new SelectList(Model.Categories,"Id","Name"))" >
+                <option disabled selected value="">Select</option>
+            </select>
+            
+        </p>
+        <p>
+            <button type="submit">Create</button>
+        </p>
+    </fieldset>
+</form>

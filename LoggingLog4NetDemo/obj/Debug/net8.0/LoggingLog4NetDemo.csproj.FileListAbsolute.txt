@@ -1,0 +1,68 @@
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/bin/Debug/net8.0/log4net.config
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/bin/Debug/net8.0/appsettings.Development.json
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/bin/Debug/net8.0/appsettings.json
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/bin/Debug/net8.0/LoggingLog4NetDemo
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/bin/Debug/net8.0/LoggingLog4NetDemo.deps.json
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/bin/Debug/net8.0/LoggingLog4NetDemo.runtimeconfig.json
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/bin/Debug/net8.0/LoggingLog4NetDemo.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/bin/Debug/net8.0/LoggingLog4NetDemo.pdb
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/bin/Debug/net8.0/log4net.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/bin/Debug/net8.0/Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/LoggingLog4NetDemo.csproj.AssemblyReference.cache
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/LoggingLog4NetDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/LoggingLog4NetDemo.AssemblyInfoInputs.cache
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/LoggingLog4NetDemo.AssemblyInfo.cs
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/LoggingLog4NetDemo.csproj.CoreCompileInputs.cache
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/LoggingLog4NetDemo.MvcApplicationPartsAssemblyInfo.cache
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/staticwebassets.build.json
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/staticwebassets.development.json
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/staticwebassets/msbuild.LoggingLog4NetDemo.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/staticwebassets/msbuild.build.LoggingLog4NetDemo.props
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.LoggingLog4NetDemo.props
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.LoggingLog4NetDemo.props
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/scopedcss/bundle/LoggingLog4NetDemo.styles.css
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/LoggingL.6E0CF18E.Up2Date
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/LoggingLog4NetDemo.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/refint/LoggingLog4NetDemo.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/LoggingLog4NetDemo.pdb
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/LoggingLog4NetDemo.genruntimeconfig.cache
+/Users/prakashvenigandla/repos/asp-core-web-api-8/demos/LoggingLog4NetDemo/obj/Debug/net8.0/ref/LoggingLog4NetDemo.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\bin\Debug\net8.0\log4net.config
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\bin\Debug\net8.0\appsettings.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\bin\Debug\net8.0\LoggingLog4NetDemo.exe
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\bin\Debug\net8.0\LoggingLog4NetDemo.deps.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\bin\Debug\net8.0\LoggingLog4NetDemo.runtimeconfig.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\bin\Debug\net8.0\LoggingLog4NetDemo.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\bin\Debug\net8.0\LoggingLog4NetDemo.pdb
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\bin\Debug\net8.0\log4net.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\LoggingLog4NetDemo.csproj.AssemblyReference.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\LoggingLog4NetDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\LoggingLog4NetDemo.AssemblyInfoInputs.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\LoggingLog4NetDemo.AssemblyInfo.cs
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\LoggingLog4NetDemo.csproj.CoreCompileInputs.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\LoggingLog4NetDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\staticwebassets\msbuild.LoggingLog4NetDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.LoggingLog4NetDemo.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LoggingLog4NetDemo.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LoggingLog4NetDemo.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\scopedcss\bundle\LoggingLog4NetDemo.styles.css
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\LoggingL.6E0CF18E.Up2Date
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\LoggingLog4NetDemo.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\refint\LoggingLog4NetDemo.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\LoggingLog4NetDemo.pdb
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\LoggingLog4NetDemo.genruntimeconfig.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\LoggingLog4NetDemo\obj\Debug\net8.0\ref\LoggingLog4NetDemo.dll

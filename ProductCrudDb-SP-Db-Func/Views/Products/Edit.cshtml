@@ -1,0 +1,20 @@
+@model Product
+<form action="~/Products/Edit" method="post">
+<fieldset>
+    <div>
+        <label>Id</label>
+        <input asp-for="Id" readonly>
+    </div>
+    <div>
+        <label>Name</label>
+        <input type="text" asp-for="Name">
+    </div>
+    <div>
+        <label>Price</label>
+        <input type="text" asp-for="Price">
+    </div>
+    <div>
+        <button type="submit">Edit</button>
+    </div>
+</fieldset>
+</form>

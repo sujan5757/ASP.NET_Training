@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{B727978F-2712-4C37-99E9-FE0CAEFA22A6}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/prakashvenigandla/repos/asp-core-api-7/demos/jwt-db-roles-6/Controllers/ProductsController.cs" relfile="Controllers/ProductsController.cs" line="50" column="1" />
+      <Breakpoint file="/Users/prakashvenigandla/repos/asp-core-api-7/demos/jwt-db-roles-6/Controllers/ProductsController.cs" relfile="Controllers/ProductsController.cs" line="42" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Roles.cs">
+    <Files>
+      <File FileName="Controllers/AuthenticateController.cs" Line="59" Column="35" />
+      <File FileName="Models/User.cs" Line="8" Column="10" />
+      <File FileName="Models/Roles.cs" Line="7" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspCoreJwtDb" expanded="True" selected="True">
+            <Node name="AspCoreJwtDb" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AspCoreJwtDb PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

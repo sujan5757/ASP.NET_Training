@@ -1,0 +1,14 @@
+C:\Users\sujan.ps\source\repos\HelloWorld\ElectricityBill\bin\Debug\net8.0\ElectricityBill.exe
+C:\Users\sujan.ps\source\repos\HelloWorld\ElectricityBill\bin\Debug\net8.0\ElectricityBill.deps.json
+C:\Users\sujan.ps\source\repos\HelloWorld\ElectricityBill\bin\Debug\net8.0\ElectricityBill.runtimeconfig.json
+C:\Users\sujan.ps\source\repos\HelloWorld\ElectricityBill\bin\Debug\net8.0\ElectricityBill.dll
+C:\Users\sujan.ps\source\repos\HelloWorld\ElectricityBill\bin\Debug\net8.0\ElectricityBill.pdb
+C:\Users\sujan.ps\source\repos\HelloWorld\ElectricityBill\obj\Debug\net8.0\ElectricityBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan.ps\source\repos\HelloWorld\ElectricityBill\obj\Debug\net8.0\ElectricityBill.AssemblyInfoInputs.cache
+C:\Users\sujan.ps\source\repos\HelloWorld\ElectricityBill\obj\Debug\net8.0\ElectricityBill.AssemblyInfo.cs
+C:\Users\sujan.ps\source\repos\HelloWorld\ElectricityBill\obj\Debug\net8.0\ElectricityBill.csproj.CoreCompileInputs.cache
+C:\Users\sujan.ps\source\repos\HelloWorld\ElectricityBill\obj\Debug\net8.0\ElectricityBill.dll
+C:\Users\sujan.ps\source\repos\HelloWorld\ElectricityBill\obj\Debug\net8.0\refint\ElectricityBill.dll
+C:\Users\sujan.ps\source\repos\HelloWorld\ElectricityBill\obj\Debug\net8.0\ElectricityBill.pdb
+C:\Users\sujan.ps\source\repos\HelloWorld\ElectricityBill\obj\Debug\net8.0\ElectricityBill.genruntimeconfig.cache
+C:\Users\sujan.ps\source\repos\HelloWorld\ElectricityBill\obj\Debug\net8.0\ref\ElectricityBill.dll

@@ -1,0 +1,30 @@
+@model List<Product>
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Amount</th>
+            <th>Manufacture Date</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Amount</td>
+                <td>@product.Mfg.ToString("yyyy-MM-dd")</td> <!-- Format the date -->
+                <td>@product.Category?.Name</td> <!-- Display category name, or "N/A" if not available -->
+                <td>
+                    <a href="~/Products/Edit/@product.Id">Edit</a> |
+                    <a href="~/Products/Delete/@product.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

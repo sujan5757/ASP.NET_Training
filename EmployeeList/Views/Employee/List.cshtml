@@ -1,0 +1,31 @@
+@model List<Employee>
+
+    <table>
+        <thead>
+            <tr><th>EmpID</th><th>EmpName</th>
+            <th>EmpEmail</th>
+            <th>EmpPhNumber</th>
+            <th>EmpCity</th>
+            <th>EmpAddress</th>
+            <th>EmpDOb</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var employee in Model)
+            {
+                <tr>
+                    <td>@employee.EmpId</td>
+                    <td>@employee.EmpName</td>
+                    <td>@employee.EmpEmail</td>
+                    <td>@employee.EmpPhNumber</td>
+                    <td>@employee.EMpCity</td>
+                    <td>@employee.EmpAddress</td>
+                    <td>@employee.EmpDob</td>
+
+                    <td><a href="~/Employee/Edit/@employee.EmpId">Edit</a></td>
+                    <td><a href="~/Employee/Delete/@employee.EmpId">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+

@@ -1,0 +1,64 @@
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/bin/Debug/net8.0/appsettings.Development.json
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/bin/Debug/net8.0/appsettings.json
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/bin/Debug/net8.0/CustomMiddlewareDemo
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/bin/Debug/net8.0/CustomMiddlewareDemo.deps.json
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/bin/Debug/net8.0/CustomMiddlewareDemo.runtimeconfig.json
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/bin/Debug/net8.0/CustomMiddlewareDemo.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/bin/Debug/net8.0/CustomMiddlewareDemo.pdb
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/CustomMiddlewareDemo.csproj.AssemblyReference.cache
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/CustomMiddlewareDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/CustomMiddlewareDemo.AssemblyInfoInputs.cache
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/CustomMiddlewareDemo.AssemblyInfo.cs
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/CustomMiddlewareDemo.csproj.CoreCompileInputs.cache
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/CustomMiddlewareDemo.MvcApplicationPartsAssemblyInfo.cs
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/CustomMiddlewareDemo.MvcApplicationPartsAssemblyInfo.cache
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/staticwebassets.build.json
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/staticwebassets.development.json
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/staticwebassets/msbuild.CustomMiddlewareDemo.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/staticwebassets/msbuild.build.CustomMiddlewareDemo.props
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CustomMiddlewareDemo.props
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CustomMiddlewareDemo.props
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/scopedcss/bundle/CustomMiddlewareDemo.styles.css
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/CustomMi.3F1F5C7D.Up2Date
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/CustomMiddlewareDemo.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/refint/CustomMiddlewareDemo.dll
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/CustomMiddlewareDemo.pdb
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/CustomMiddlewareDemo.genruntimeconfig.cache
+/Users/prakashvenigandla/repos/asp-core-web-api-8/CustomMiddlewareDemo/obj/Debug/net8.0/ref/CustomMiddlewareDemo.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\bin\Debug\net8.0\appsettings.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\bin\Debug\net8.0\CustomMiddlewareDemo.exe
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\bin\Debug\net8.0\CustomMiddlewareDemo.deps.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\bin\Debug\net8.0\CustomMiddlewareDemo.runtimeconfig.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\bin\Debug\net8.0\CustomMiddlewareDemo.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\bin\Debug\net8.0\CustomMiddlewareDemo.pdb
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\CustomMiddlewareDemo.csproj.AssemblyReference.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\CustomMiddlewareDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\CustomMiddlewareDemo.AssemblyInfoInputs.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\CustomMiddlewareDemo.AssemblyInfo.cs
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\CustomMiddlewareDemo.csproj.CoreCompileInputs.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\CustomMiddlewareDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\CustomMiddlewareDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\staticwebassets\msbuild.CustomMiddlewareDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomMiddlewareDemo.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomMiddlewareDemo.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomMiddlewareDemo.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\scopedcss\bundle\CustomMiddlewareDemo.styles.css
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\CustomMi.3F1F5C7D.Up2Date
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\CustomMiddlewareDemo.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\refint\CustomMiddlewareDemo.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\CustomMiddlewareDemo.pdb
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\CustomMiddlewareDemo.genruntimeconfig.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\CustomMiddlewareDemo\obj\Debug\net8.0\ref\CustomMiddlewareDemo.dll

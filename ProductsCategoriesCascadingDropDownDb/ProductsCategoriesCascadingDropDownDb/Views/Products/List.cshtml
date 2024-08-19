@@ -1,0 +1,52 @@
+﻿@using ProductCrudDb.Models;
+@model List<Product>
+@section scripts
+    {
+    <script type="text/javascript">
+        $(document).ready(function () {
+            
+        });
+        function loadProduct(obj) {
+            var categeoryId = obj.value;
+            $.get("http://localhost:5259/Products/GetProductsByCategoryId", { id: categeoryId }, function (products) {
+                debugger;
+                PopulateDropDown("#ddlProducts", products);
+            });
+        }
+        function PopulateDropDown(dropDownId, products, selectedId) {
+            $(dropDownId).empty();
+            $(dropDownId).append("<option>--Please select product--</option>")
+            $.each(products, function (index, product) {
+                $(dropDownId).append("<option value='" + product.id + "'>" + product.name + "</option>")
+            });
+        }
+    </script>
+}
+    <select asp-items="ViewBag.Categories"
+            id="CategoryId" onchange="loadProduct(this)"></select>
+    <select asp-items="ViewBag.ProductData" id="ddlProducts"></select>
+   <p>@ViewBag.Msg Select Any Department</p> 
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Category Id</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (Product product in Model)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                    <td>@product.CategoryId</td>
+                    <td><a href="~/products/delete/@product">Delete</a></td>
+                </tr>
+            }
+
+        </tbody>
+    </table>

@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{53E7B018-410A-4872-B9A3-5333BF09CB38}|http">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LoggingLog4NetDemo PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="log4net.config" Line="9" Column="23" />
+      <File FileName="appsettings.json" Line="12" Column="1" />
+      <File FileName="Program.cs" Line="6" Column="30" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="2" Column="1" />
+      <File FileName="readme.txt" Line="8" Column="1" />
+      <File FileName="bin/Debug/net7.0/example.log" Line="5" Column="145" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="LoggingLog4NetDemo" expanded="True">
+            <Node name="LoggingLog4NetDemo" expanded="True">
+              <Node name="bin" expanded="True">
+                <Node name="Debug" expanded="True">
+                  <Node name="net7.0" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

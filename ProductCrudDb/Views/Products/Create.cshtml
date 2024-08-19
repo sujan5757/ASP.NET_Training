@@ -1,0 +1,30 @@
+﻿@model Product
+
+<form asp-controller="Products" asp-action="Create" method="post">
+    <fieldset>
+        <div>
+            <label asp-for="Name"></label>
+            <input type="text" asp-for="Name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+            <span asp-validation-message-for="Name" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="Price"></label>
+            <input type="number" asp-for="Price" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+            <span asp-validation-message-for="Price" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="Mfg"></label>
+            <input type="date" asp-for="Mfg" />
+            <span asp-validation-for="Mfg" class="text-danger"></span>
+            <span asp-validation-message-for="Mfg" class="text-danger"></span>
+        </div>
+        <div>
+            <button type="submit">Create</button>
+        </div>
+    </fieldset>
+</form>
+@section Scripts {
+    @{ Html.RenderPartial("_ValidationScriptsPartial"); }
+}

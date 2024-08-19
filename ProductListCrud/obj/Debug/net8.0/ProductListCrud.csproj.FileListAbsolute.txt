@@ -1,0 +1,70 @@
+/Users/prakashvenigandla/ProductListCrud/bin/Debug/net8.0/appsettings.Development.json
+/Users/prakashvenigandla/ProductListCrud/bin/Debug/net8.0/appsettings.json
+/Users/prakashvenigandla/ProductListCrud/bin/Debug/net8.0/ProductListCrud.staticwebassets.runtime.json
+/Users/prakashvenigandla/ProductListCrud/bin/Debug/net8.0/ProductListCrud
+/Users/prakashvenigandla/ProductListCrud/bin/Debug/net8.0/ProductListCrud.deps.json
+/Users/prakashvenigandla/ProductListCrud/bin/Debug/net8.0/ProductListCrud.runtimeconfig.json
+/Users/prakashvenigandla/ProductListCrud/bin/Debug/net8.0/ProductListCrud.dll
+/Users/prakashvenigandla/ProductListCrud/bin/Debug/net8.0/ProductListCrud.pdb
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/ProductListCrud.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/ProductListCrud.AssemblyInfoInputs.cache
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/ProductListCrud.AssemblyInfo.cs
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/ProductListCrud.csproj.CoreCompileInputs.cache
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/ProductListCrud.MvcApplicationPartsAssemblyInfo.cache
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/ProductListCrud.RazorAssemblyInfo.cache
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/ProductListCrud.RazorAssemblyInfo.cs
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/staticwebassets.build.json
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/staticwebassets.development.json
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/staticwebassets/msbuild.ProductListCrud.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/staticwebassets/msbuild.build.ProductListCrud.props
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProductListCrud.props
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProductListCrud.props
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/scopedcss/bundle/ProductListCrud.styles.css
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/scopedcss/projectbundle/ProductListCrud.bundle.scp.css
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/ProductListCrud.dll
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/refint/ProductListCrud.dll
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/ProductListCrud.pdb
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/ProductListCrud.genruntimeconfig.cache
+/Users/prakashvenigandla/ProductListCrud/obj/Debug/net8.0/ref/ProductListCrud.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\bin\Debug\net8.0\appsettings.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\bin\Debug\net8.0\ProductListCrud.staticwebassets.runtime.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\bin\Debug\net8.0\ProductListCrud.exe
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\bin\Debug\net8.0\ProductListCrud.deps.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\bin\Debug\net8.0\ProductListCrud.runtimeconfig.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\bin\Debug\net8.0\ProductListCrud.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\bin\Debug\net8.0\ProductListCrud.pdb
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\ProductListCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\ProductListCrud.AssemblyInfoInputs.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\ProductListCrud.AssemblyInfo.cs
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\ProductListCrud.csproj.CoreCompileInputs.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\ProductListCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\ProductListCrud.RazorAssemblyInfo.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\ProductListCrud.RazorAssemblyInfo.cs
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\staticwebassets\msbuild.ProductListCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductListCrud.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductListCrud.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductListCrud.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\scopedcss\bundle\ProductListCrud.styles.css
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\scopedcss\projectbundle\ProductListCrud.bundle.scp.css
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\ProductListCrud.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\refint\ProductListCrud.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\ProductListCrud.pdb
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\ProductListCrud.genruntimeconfig.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\ProductListCrud\obj\Debug\net8.0\ref\ProductListCrud.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\.NET Training\ProductListCrud\obj\Debug\net8.0\ProductListCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\.NET Training\ProductListCrud\obj\Debug\net8.0\ProductListCrud.AssemblyInfoInputs.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\.NET Training\ProductListCrud\obj\Debug\net8.0\ProductListCrud.AssemblyInfo.cs
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\.NET Training\ProductListCrud\obj\Debug\net8.0\ProductListCrud.csproj.CoreCompileInputs.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\.NET Training\ProductListCrud\obj\Debug\net8.0\ProductListCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\.NET Training\ProductListCrud\obj\Debug\net8.0\ProductListCrud.RazorAssemblyInfo.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\.NET Training\ProductListCrud\obj\Debug\net8.0\ProductListCrud.RazorAssemblyInfo.cs
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\.NET Training\ProductListCrud\obj\Debug\net8.0\ProductListCrud.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\.NET Training\ProductListCrud\obj\Debug\net8.0\refint\ProductListCrud.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\.NET Training\ProductListCrud\obj\Debug\net8.0\ProductListCrud.pdb

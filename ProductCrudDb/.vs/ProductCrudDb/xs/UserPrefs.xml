@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{7DE43254-6E25-4144-918A-AC1D877DD9A1}|http">
+  <MonoDevelop.Ide.Workbench ActiveDocument="readme.txt">
+    <Files>
+      <File FileName="Models/Product.cs" Line="20" Column="42" />
+      <File FileName="Models/MfgDateValidationAttribute.cs" Line="10" Column="10" />
+      <File FileName="Views/Products/Create.cshtml" Line="25" Column="15" />
+      <File FileName="Controllers/ProductsController.cs" Line="4" Column="30" />
+      <File FileName="readme.txt" Line="16" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductCrudDb" expanded="True">
+            <Node name="ProductCrudDb" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Products" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="readme.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ProductCrudDb PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
